@@ -1,0 +1,1 @@
+{"name": "tool-ninja", "version": "1.11.1", "description": "Ninja is a small build system with a focus on speed", "keywords": ["tools", "build system"], "homepage": "https://ninja-build.org", "license": "Apache-2.0", "system": ["darwin_arm64"], "repository": {"type": "git", "url": "https://github.com/ninja-build/ninja"}}
